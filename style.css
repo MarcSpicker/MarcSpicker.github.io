@@ -70,7 +70,20 @@ pub-info
   font-weight: normal;
   font-style: italic;
   padding-top: 5px;
+  padding-bottom: 5px;
   display: inline-block;
+}
+
+pub-degree
+{
+  font-size: 16px;
+  font-weight: normal;
+}
+
+pub-teaching
+{
+  font-size: 16px;
+  font-weight: normal;
 }
 
 copy-right
